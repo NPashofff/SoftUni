@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxOfT", "BoxOfT\BoxOfT.csproj", "{7CD26612-BDFC-46DC-85FA-3B9078017A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Swap Method Strings", "Generic Swap Method Strings\Generic Swap Method Strings.csproj", "{B866BFF8-F52D-47BF-A9DE-B3A49B33453F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD26612-BDFC-46DC-85FA-3B9078017A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD26612-BDFC-46DC-85FA-3B9078017A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD26612-BDFC-46DC-85FA-3B9078017A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD26612-BDFC-46DC-85FA-3B9078017A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B866BFF8-F52D-47BF-A9DE-B3A49B33453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B866BFF8-F52D-47BF-A9DE-B3A49B33453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B866BFF8-F52D-47BF-A9DE-B3A49B33453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B866BFF8-F52D-47BF-A9DE-B3A49B33453F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7420B90B-F180-4B60-A5FA-0AD20BFD26AD}
+	EndGlobalSection
+EndGlobal
