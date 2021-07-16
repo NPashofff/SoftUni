@@ -1,0 +1,13 @@
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\NPashofff\source\repos\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
